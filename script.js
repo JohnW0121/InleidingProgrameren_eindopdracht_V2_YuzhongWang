@@ -58,6 +58,6 @@ resetKnop.addEventListener("click", reset);
 //Bronnenlijst
 // https://elevenlabs.io/sound-effects/whoosh
 // https://elevenlabs.io/sound-effects/alarm
-// https://www.w3schools.com/js/js_if_else.asp?utm
-// https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement?utm
+// https://www.w3schools.com/js/js_if_else.asp
+// https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement
 
