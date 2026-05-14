@@ -56,3 +56,8 @@ nachtKnop.addEventListener("click", nacht);
 resetKnop.addEventListener("click", reset);
 
 //Bronne lijst
+// https://elevenlabs.io/sound-effects/whoosh
+// https://elevenlabs.io/sound-effects/alarm
+// https://www.w3schools.com/js/js_if_else.asp?utm_source=chatgpt.com
+// https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement?utm_source=chatgpt.com
+
